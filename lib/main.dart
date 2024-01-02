@@ -1,4 +1,5 @@
 import 'package:fireship_quizz/routes.dart';
+import 'package:fireship_quizz/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
@@ -35,6 +36,7 @@ class _AppState extends State<App> {
         // Once complete, show your application
         if (snapshot.connectionState == ConnectionState.done) {
           return MaterialApp(
+            theme: appTheme,
             routes: appRoutes,
           );
         }
