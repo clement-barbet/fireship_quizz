@@ -15,6 +15,7 @@ class BottomNavbar extends StatelessWidget {
         BottomNavigationBarItem(
             icon: Icon(FontAwesomeIcons.circleUser), label: 'Profile')
       ],
+      fixedColor: Colors.deepPurple[200],
       onTap: (int idx) {
         switch (idx) {
           case 0:
