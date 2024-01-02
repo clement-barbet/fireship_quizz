@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527608784508",
+    "project_id": "fireship-flutter-19d25",
+    "storage_bucket": "fireship-flutter-19d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527608784508:android:a467e66a8bf136e4074bf9",
+        "android_client_info": {
+          "package_name": "sh.clement.fireship_quizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PXJlLCNEYSkMyaHiCZnbyGG1x2_Ndao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

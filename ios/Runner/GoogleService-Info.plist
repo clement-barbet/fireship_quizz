@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDNKNh7SqhfwYbCOjHSDcqKZEJs7GiFAaQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527608784508</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sh.clement.fireshipQuizz</string>
+	<key>PROJECT_ID</key>
+	<string>fireship-flutter-19d25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireship-flutter-19d25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527608784508:ios:3909f80b2d6cb09b074bf9</string>
+</dict>
+</plist>
